@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p132103-e1283504.adobeaemcloud.com/bin/franklin.delivery/lab423a/seat-49/main"
+    url: "https://author-p132104-e1283505.adobeaemcloud.com/bin/franklin.delivery/lab423a/seat-49/main"
     type: "markup"
     suffix: ".html"
